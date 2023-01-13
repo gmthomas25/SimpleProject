@@ -22,9 +22,12 @@ public class StringEx {
 		
 	}
 	
+	// if str>str2 then str shouldbe before str2
 	public static char findCharacter(String str, int index) {
 		return ' ';
 	}
+	
+	
 	
 	public static String append(String str, String str2) {
 		return "";
